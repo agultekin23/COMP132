@@ -1,0 +1,23 @@
+=== Game Data ===
+GridSize: 10
+Era: Past
+PlayerRole: Predator
+CurrentRound: 23
+TotalRounds: 37
+
+=== Scores ===
+ApexPredatorScore: 4
+PredatorScore: -4
+PreyScore: 9
+
+=== Positions ===
+ApexLocation: 4,8
+PredatorLocation: 3,9
+PreyLocation: 4,7
+FoodLocation: 7,4
+FoodName: Ferns
+
+=== Cooldowns ===
+ApexCooldown: 2
+PredatorCooldown: 0
+PreyCooldown: 1
